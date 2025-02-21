@@ -1,18 +1,3 @@
----
-icon: hand-wave
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 欢迎来到她历史人物
 
 ### 简介
