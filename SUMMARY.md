@@ -383,3 +383,77 @@
 * [将](da-meng-gu-guo/jiang.md)
 * [公主](da-meng-gu-guo/gong-zhu.md)
 * [其他](da-meng-gu-guo/qi-ta.md)
+
+## 1271年-1368年（97年）元朝 <a href="#yuan-chao" id="yuan-chao"></a>
+
+* [政](yuan-chao/zheng.md)
+* [王后](yuan-chao/wang-hou.md)
+* [将士](yuan-chao/jiang-shi.md)
+* [才子](yuan-chao/cai-zi.md)
+* [道士](yuan-chao/dao-shi.md)
+* [其他](yuan-chao/qi-ta.md)
+
+## 1368年-1644年（277年）明朝 <a href="#ming-chao" id="ming-chao"></a>
+
+* [皇后](ming-chao/huang-hou.md)
+* [妃嫔](ming-chao/fei-pin.md)
+* [宫廷官员](ming-chao/gong-ting-guan-yuan.md)
+* [统治者](ming-chao/tong-zhi-zhe.md)
+* [将士](ming-chao/jiang-shi.md)
+* [才子](ming-chao/cai-zi.md)
+* [画家](ming-chao/hua-jia.md)
+* [修道](ming-chao/xiu-dao.md)
+* [水利](ming-chao/shui-li.md)
+* [天文算术](ming-chao/tian-wen-suan-shu.md)
+* [医家](ming-chao/yi-jia.md)
+* [商人](ming-chao/shang-ren.md)
+* [刺绣](ming-chao/ci-xiu.md)
+* [其他](ming-chao/qi-ta.md)
+
+***
+
+* [1616年-1636年（21年）后金](1616-nian-1636-nian-21-nian-hou-jin.md)
+* [1676年\~1757年 准噶尔汗国](1676-nian-1757-nian-zhun-ga-er-han-guo.md)
+
+## 1636年-1912年
+
+* [1636年-1840年（205年）清朝（前期）](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/README.md)
+  * [政治](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/zheng-zhi.md)
+  * [命妇](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/ming-fu.md)
+  * [宫人](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/gong-ren.md)
+  * [才子](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/cai-zi.md)
+  * [诗社](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/shi-she.md)
+  * [将士](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/jiang-shi.md)
+  * [医家](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/yi-jia.md)
+  * [天文算术](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/tian-wen-suan-shu.md)
+  * [其他](1636-nian-1912-nian/1636-nian-1840-nian-205-nian-qing-chao-qian-qi/qi-ta.md)
+* [1851年—1864年 太平天国](1636-nian-1912-nian/1851-nian-1864-nian-tai-ping-tian-guo.md)
+* [1840年-1912年（73年）晚清](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/README.md)
+  * [政治](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/zheng-zhi.md)
+  * [军事](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/jun-shi.md)
+  * [反清将士](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/fan-qing-jiang-shi.md)
+  * [思想家](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/si-xiang-jia.md)
+  * [开拓者](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/kai-tuo-zhe.md)
+  * [才子](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/cai-zi.md)
+  * [文学团体](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/wen-xue-tuan-ti.md)
+  * [其他](1636-nian-1912-nian/1840-nian-1912-nian-73-nian-wan-qing/qi-ta.md)
+
+## 1912年-1949年（38年） 中华民国 <a href="#zhong-hua-min-guo" id="zhong-hua-min-guo"></a>
+
+* [活动家革命者](zhong-hua-min-guo/huo-dong-jia-ge-ming-zhe.md)
+* [不婚/独身革命者](zhong-hua-min-guo/bu-hun-du-shen-ge-ming-zhe.md)
+* [党员](zhong-hua-min-guo/dang-yuan.md)
+* [打入敌人内部的党员](zhong-hua-min-guo/da-ru-di-ren-nei-bu-de-dang-yuan.md)
+* [娘子军战士](zhong-hua-min-guo/niang-zi-jun-zhan-shi.md)
+* [红军战士](zhong-hua-min-guo/hong-jun-zhan-shi.md)
+* [八女投江](zhong-hua-min-guo/bantou-jiang.md)
+* [军校学员](zhong-hua-min-guo/jun-xiao-xue-yuan.md)
+* [办学者](zhong-hua-min-guo/ban-xue-zhe.md)
+* [学生](zhong-hua-min-guo/xue-sheng.md)
+* [飞行员](zhong-hua-min-guo/fei-xing-yuan.md)
+* [律师](zhong-hua-min-guo/l-shi.md)
+* [企业家](zhong-hua-min-guo/qi-ye-jia.md)
+* [理工](zhong-hua-min-guo/li-gong.md)
+* [医学](zhong-hua-min-guo/yi-xue.md)
+* [艺术](zhong-hua-min-guo/yi-shu.md)
+* [其他](zhong-hua-min-guo/qi-ta.md)
