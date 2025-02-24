@@ -10,7 +10,7 @@ icon: hand-wave
 
 ### 文档来源
 
-由 `鸟正Caroline、印花飞熊、另一个月下、乐忧芝岑、摩诃婆罗少、阿香的洗澡水、倚轻烟、福二摩四、好头、山海、枣儿、乐骟好弑、月下披云啸一声-`汇总而成
+感谢由 `鸟正Caroline、印花飞熊、另一个月下、乐忧芝岑、摩诃婆罗少、阿香的洗澡水、倚轻烟、福二摩四、好头、山海、枣儿、乐骟好弑、月下披云啸一声-`汇总而成的历史人物文档。
 
 > 本人搬运，原[文档编辑链接](https://www.kdocs.cn/l/ctUWZEZgQFeW)，本文档[仓库地址](https://github.com/anonymouswomen/Herstory-Docs)
 
