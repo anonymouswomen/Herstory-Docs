@@ -14,6 +14,10 @@ icon: hand-wave
 
 > 本人搬运，原[文档编辑链接](https://www.kdocs.cn/l/ctUWZEZgQFeW)，本文档[仓库地址](https://github.com/anonymouswomen/Herstory-Docs)
 
+#### 补充资料
+
+部分历史考据从[女性历史考据小组](https://www.douban.com/group/750874/)获取。
+
 #### 说明
 
 偶然间看到媎妹整理的历史人物文档，一时兴起想要将其制作成网页版，分享给更多的媎妹们。
