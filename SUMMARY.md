@@ -122,6 +122,7 @@
 * [皇后](xi-han/huang-hou.md)
 * [妃嫔](xi-han/fei-pin.md)
 * [王室](xi-han/wang-shi.md)
+* [外戚](xi-han/wai-qi.md)
 * [宫人](xi-han/gong-ren.md)
 * [宫廷官员](xi-han/gong-ting-guan-yuan.md)
 * [侯爵](xi-han/hou-jue.md)
