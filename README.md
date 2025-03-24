@@ -16,7 +16,7 @@ icon: hand-wave
 
 #### 补充资料
 
-部分历史考据从[女性历史考据小组](https://www.douban.com/group/750874/)、[中国古代女军人](https://weibo.com/p/1008088b7208c88c713ece0eddf626ad254f80/super_index)获取。
+部分历史考据从[女性历史考据小组](https://www.douban.com/group/750874/)、[中国古代女军人超话](https://weibo.com/p/1008088b7208c88c713ece0eddf626ad254f80/super_index)获取。
 
 #### 说明
 
